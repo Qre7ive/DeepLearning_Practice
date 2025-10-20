@@ -1,2 +1,2 @@
-# DeepLearning-Practice
+# Practice_DeepLearning
 Just practice
